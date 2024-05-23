@@ -1,6 +1,6 @@
 # API Consultas Médicas
 
-Esta é uma API para gerenciar consultas médicas, construída com Spring Boot. A API permite criar, listar, atualizar, deletar e inativar consultas. A arquitetura segue o padrão de camadas (Controller, Model,DTO, Mapper, Service, Repository) e utiliza ModelMapper para a conversão entre entidades e DTOs.
+Esta é uma API para gerenciar consultas médicas, construída com Spring Boot. A API permite criar, listar, atualizar, deletar e inativar consultas. A arquitetura segue o padrão de camadas (Controller, Model, DTO, Mapper, Service, Repository) e utiliza ModelMapper para a conversão entre entidades e DTOs.
 
 ## Tecnologias Utilizadas
 
