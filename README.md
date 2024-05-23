@@ -74,4 +74,4 @@ O projeto segue uma arquitetura em camadas dividida nas seguintes partes:
 
 #### . /mvnw spring-boot:run
   
-#### A API estará disponível em <http://localhost:8080/consultas>
+#### A API estará disponível em <https://localhost:8080/consultas>
